@@ -139,3 +139,6 @@ dmypy.json
 cython_debug/
 
 .idea/
+/main.py
+/Optimizing Tuition Centres.pdf
+/Optimizing Tuition Centres.pptx
